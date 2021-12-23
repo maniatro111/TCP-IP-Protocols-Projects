@@ -1,3 +1,12 @@
 [submodule "Router"]
 	path = Router
 	url = https://github.com/maniatro111/Router.git
+[submodule "HTTP-book-library"]
+	path = HTTP-book-library
+	url = https://github.com/maniatro111/HTTP-book-library.git
+[submodule "TCP-UDP-server-client-store-and-forward-subscriber-application"]
+	path = TCP-UDP-server-client-store-and-forward-subscriber-application
+	url = https://github.com/maniatro111/TCP-UDP-server-client-store-and-forward-subscriber-application.git
+[submodule "DNS-Server"]
+	path = DNS-Server
+	url = https://github.com/maniatro111/DNS-Server.git
